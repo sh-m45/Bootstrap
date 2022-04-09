@@ -1,0 +1,15 @@
+section{
+    height: 100vh;
+}
+.circle{
+    height: 100px !important ;
+    border-radius: 50%;
+}
+.card{
+    height: 150px !important ;
+}
+.circleSmall
+{
+    height: 50px !important ;
+    border-radius: 50%;
+}

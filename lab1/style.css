@@ -1,0 +1,64 @@
+.home-page
+{
+    background-image: url(images/intro_flower.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    margin-top: 20px;
+    border-radius: 15px ;
+    color: #e6e6e6 ;
+}
+
+.textPHome{
+    font-weight: 200;
+}
+.h5Body{
+    font-size: 17px;
+    color: rgb(192, 183, 183);
+    font-weight:400 ;
+}
+.rightDiv
+{
+    border-right: 1px solid gray;
+}
+.cardOne
+{
+    background-image: linear-gradient(#bdb9b9, white);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding : 10px 15px ;
+    
+}
+.rowUniqe
+{
+    border-radius: 10px;
+    border: 1px solid #999898;
+    background-color: #d5d4d4;
+}
+
+.containerCards p{
+    font-size: 14px ;
+    
+}
+.styleList{
+    list-style-type: square;
+}
+footer
+{
+    color: rgb(169, 167, 167);
+}
+footer h4
+{
+    color: #eeeded;
+}
+
+footer li {
+    font-size:14px ;
+}
+
+footer p {
+    font-size:14px ;
+}
+form label
+ {
+    font-weight: 500;
+ }
